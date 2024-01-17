@@ -58,7 +58,7 @@ input {
     border-radius: 10px;
     text-transform: capitalize;
 }
-@media (max-width:600px) {
+@media (max-width:700px) {
 
     .box {
         width: 80vw !important;
