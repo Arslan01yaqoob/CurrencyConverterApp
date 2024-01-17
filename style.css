@@ -62,8 +62,19 @@ input {
 
     .box {
         width: 80vw !important;
-
     }
+    
+.conv-btn {
+    background-color: #E4B600;
+    width: 38vw !important;
+    color: aliceblue;
+    border: none;
+    height: 7vh;
+    margin-top: 5vh;
+    font-size: 3vw;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
     
 
 }
